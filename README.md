@@ -1,2 +1,2 @@
 # Photography-Webpage
-Creating a website for Armin Professional Photographer .
+Creating a website for a Professional Photographer .
