@@ -150,12 +150,12 @@ hr {
   }
 
   .img_intro {
-    width: auto;
+    margin: 5px auto;
     height: 30vh;
-    background-size: cover;
+    background-size: contain;
   }
 
-  .container2 figure {
+  #container2 figure {
     background-size: cover;
     height: 20vh;
     border-radius: 1rem;
