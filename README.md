@@ -12,7 +12,7 @@ Creating a website for a Professional Photography.
 ## Getting Started
 
 ## Live view
-[Live view]()
+[Live view](https://tiny-jalebi-bb6a92.netlify.app/)
 
 ## Prerequisite
 
