@@ -2,7 +2,7 @@
 
 # Description
 
-Creating a website for Armin Professional Photographer.
+Creating a website for Armin Professional Photography.
 
 ## Built With
 
