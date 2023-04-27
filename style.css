@@ -8,10 +8,52 @@
   font-size: 62.5%;
 }
 
-h1 {
-  color: red;
-  text-transform: uppercase;
-  font-size: 4rem;
+body {
+  background-color: rgb(241, 255, 241);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.container {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.intro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  padding: 0;
+}
+
+.text_intro {
   text-align: center;
-  margin-top: 30px;
+  margin: auto 2rem;
+  width: 40%;
+  line-height: 5rem;
+  font-size: 1.5rem;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+.img_intro {
+  background: url(./images/photo-intro.jpeg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 90vh;
+  width: 60%;
+}
+
+.btn1 {
+  background-color: rgb(195, 243, 243);
+  padding: 1rem 2rem;
+  border-radius: 3rem;
+  font-size: 2rem;
 }
