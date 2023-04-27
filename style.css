@@ -21,12 +21,7 @@ a {
 .container {
   width: 70%;
   margin: 3rem auto;
-  background-image: 
-  linear-gradient(to right,
-    rgb(241, 255, 241),
-    #5c99a8,
-    rgb(241, 255, 241)
-  );
+  background-image: linear-gradient(to right, #f1fff1, #5c99a8, #f1fff1);
 }
 
 .intro {
@@ -75,12 +70,6 @@ p {
 }
 
 .hero {
-  background-image: 
-  linear-gradient(to right,
-    rgb(241, 255, 241),
-    #5c99a8,
-    rgb(241, 255, 241)
-  );
   font-size: 3rem;
   text-align: center;
   padding: 1.5rem;
