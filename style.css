@@ -134,3 +134,19 @@ h2 {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.info {
+  text-align: center;
+  font-size: 2rem;
+  line-height: 8rem;
+}
+
+h3 {
+  font-family: "Castoro Titling", cursive;
+  font-size: 4rem;
+}
+
+hr {
+  width: 80%;
+  margin: 0 auto;
+}
